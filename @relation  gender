@@ -1,0 +1,31 @@
+@relation gender
+
+@attribute Height numeric
+
+@attribute Weight numeric
+
+@attribute Gender {Male,Female}
+
+@data
+
+120,60,Female
+
+130,49,Male
+
+170,67,Male
+
+160,35,Female
+
+190,56,Female
+
+200,78,Female
+
+400,45,Female
+
+300,67,Female
+
+200,12,Male
+
+120,34,Male
+
+111,45, Male
