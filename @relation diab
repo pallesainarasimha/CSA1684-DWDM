@@ -1,0 +1,35 @@
+@relation diabeties 
+
+@attribute pregnencies numeric
+
+@attribute glucose numeric
+
+@attribute bloodpressure numeric
+
+@attribute skinthickness numeric
+
+@attribute age numeric
+
+@attribute outcome {0,1}
+
+@data
+
+1,90,120,35,45,1
+
+2,75,100,30,46,1
+
+5,55,65,20,67,0
+
+3,30,91,23,25,0
+
+7,78,120,45,56,0
+
+9,98,120,78,34,1
+
+8,100,110,45,67,1
+
+11,25,69,23,65,1
+
+4,50,78,23,46,0
+
+2,65,89,36,12,1
