@@ -1,0 +1,23 @@
+@relation food
+
+@attribute Hotdogs {false,true}
+
+@attribute Buns {false,true}
+
+@attribute Ketchup {false,true}
+
+@attribute Coke {false,true}
+
+@attribute Chips {false,true}
+
+@data
+
+true,true,true,false,false
+
+true,true,false,false,false
+
+true,false,false,true,true
+
+false,false,false,true,true
+
+true,false,false,true,true
